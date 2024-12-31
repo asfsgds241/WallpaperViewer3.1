@@ -1,0 +1,5 @@
+F:\CSProject\WallpaperViewer3\obj\Debug\net7.0-windows\WallpaperViewer3.csproj.AssemblyReference.cache
+F:\CSProject\WallpaperViewer3\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\CSProject\WallpaperViewer3\obj\Debug\net7.0-windows\App.g.cs
+F:\CSProject\WallpaperViewer3\obj\Debug\net7.0-windows\WallpaperViewer3_MarkupCompile.cache
+F:\CSProject\WallpaperViewer3\obj\Debug\net7.0-windows\WallpaperViewer3_MarkupCompile.lref
